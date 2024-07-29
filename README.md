@@ -60,3 +60,7 @@ Execute um desses scripts, espere 5 segundos e mova o mouse para o local desejad
 ## Contribuições
 
 Contribuições são bem-vindas! Sinta-se à vontade para abrir uma issue ou enviar um pull request.
+
+## Licença
+Este projeto é para fins educacionais e não possui uma licença específica. Todos os direitos reservados à Jornada Python.
+
