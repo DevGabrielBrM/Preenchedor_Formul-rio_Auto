@@ -53,7 +53,7 @@ Execute um desses scripts, espere 5 segundos e mova o mouse para o local desejad
 
 ## Observações
 
-1.Certifique-se de que a janela do navegador esteja maximizada para que as coordenadas funcionem corretamente.
+1. Certifique-se de que a janela do navegador esteja maximizada para que as coordenadas funcionem corretamente.
 2. O tempo de pausa entre as ações pode ser ajustado na variável pyautogui.PAUSE.
 3. Revise as credenciais de login e atualize-as conforme necessário.
 
